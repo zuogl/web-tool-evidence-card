@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "project": "Sonify",
+  "reference_url": "https://sonify.uk/how-it-works/",
+  "recorded_on": "2026-11-13",
+  "illustrative": true,
+  "source_summary": "The workflow page distinguishes expiry of access from physical cleanup and notes that storage faults can delay cleanup.",
+  "checked_at": null,
+  "observations": [],
+  "unverified": [
+    "No server storage or cleanup process has been inspected.",
+    "An unavailable download does not by itself establish physical erasure."
+  ],
+  "next_check": "Re-read the current workflow declaration; keep the access deadline and any separately evidenced cleanup claim distinct."
+}

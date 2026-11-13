@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "project": "WatermarkPilot",
+  "reference_url": "https://watermarkpilot.com/add-watermark-to-photo",
+  "recorded_on": "2026-11-13",
+  "illustrative": true,
+  "source_summary": "The photo page warns that exports may not retain camera or color-profile metadata.",
+  "checked_at": null,
+  "observations": [],
+  "unverified": [
+    "No exported image metadata has been inspected for this card.",
+    "The photo page does not establish the separate PDF tool's behavior."
+  ],
+  "next_check": "With an authorized harmless sample, inspect the input and exported metadata and record the method and scope."
+}

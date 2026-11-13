@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "project": "Square Footage Calculator",
+  "reference_url": "https://squarefootagecalculator.co/",
+  "recorded_on": "2026-11-13",
+  "illustrative": true,
+  "source_summary": "The home page discloses that room measurements are not sent as analytics events.",
+  "checked_at": null,
+  "observations": [],
+  "unverified": [
+    "No analytics request has been captured or inspected for this card.",
+    "A local-calculation statement does not prove the whole page makes no network requests."
+  ],
+  "next_check": "Re-read the current disclosure; if an authorized network inspection is performed, record only the traffic and conditions actually observed."
+}

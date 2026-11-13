@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "project": "Small Text Studio",
+  "reference_url": "https://bestsmalltext.online/superscript",
+  "recorded_on": "2026-11-13",
+  "illustrative": true,
+  "source_summary": "The superscript page says acceptance of converted characters depends on the destination app and device.",
+  "checked_at": null,
+  "observations": [],
+  "unverified": [
+    "Acceptance in a particular destination app has not been tested.",
+    "A character mapping is not evidence of identical display on every device."
+  ],
+  "next_check": "Try a short nonsensitive sample in the actual intended destination and record its app/device context."
+}

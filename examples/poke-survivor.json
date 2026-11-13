@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "project": "PokéSurvivor Hub",
+  "reference_url": "https://pokesurvivorhub.wiki/updates",
+  "recorded_on": "2026-11-13",
+  "illustrative": true,
+  "source_summary": "The update reference distinguishes announcement dates from guide update dates.",
+  "checked_at": null,
+  "observations": [],
+  "unverified": [
+    "The running game build on a reader's device is unknown.",
+    "A page date is not an independently observed build identifier."
+  ],
+  "next_check": "Read the current source and record any actual build identifier separately from announcement and guide dates."
+}

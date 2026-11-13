@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "project": "GifLoom",
+  "reference_url": "https://gifloom.com/gif-resizer",
+  "recorded_on": "2026-11-13",
+  "illustrative": true,
+  "source_summary": "The resizer page distinguishes canvas dimensions from the byte size of the encoded GIF.",
+  "checked_at": null,
+  "observations": [],
+  "unverified": [
+    "No output GIF has been generated or measured for this card.",
+    "A chosen dimension does not establish acceptance by a destination platform."
+  ],
+  "next_check": "For an authorized sample, record output dimensions and file bytes as separate observations rather than one inferred result."
+}
